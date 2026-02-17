@@ -1,5 +1,4 @@
-Django==1.11.29
-PyYAML==5.3
+django==2.2.10
+pyyaml==5.3
 requests==2.19.1
-Flask==0.12
-urllib3==1.24.1
+flask==0.12
