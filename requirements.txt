@@ -1,6 +1,12 @@
-django==2.2.10
-flask==0.12
 requests==2.19.1
 pyyaml==5.3
+django==2.2.10
+flask==0.12
+bandit==1.6.2
+safety==1.8.5
+flask-login==0.4.1
+flask-wtf==0.14.2
+python-dotenv==0.12.0
+
 
 
