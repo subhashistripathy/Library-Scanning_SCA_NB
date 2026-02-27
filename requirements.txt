@@ -2,8 +2,5 @@ requests==2.19.1
 pyyaml==5.3
 django==2.2.10
 flask==0.12
-bandit==1.6.2
-safety==1.8.5
-
 
 
